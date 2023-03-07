@@ -22,4 +22,4 @@ Dataset Information:
 
 ## Acknowledgements
 
-This project completed as a part of Miuul Data Science & Machine Learning Bootcamp. Dataset provided by Miuul and private.
+This project completed as a part of Miuul Data Science & Machine Learning Bootcamp. Dataset were provided by Miuul and private.
